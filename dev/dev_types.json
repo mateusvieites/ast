@@ -19,6 +19,8 @@
         { "name": { "value": "MUI", "synonyms": [""] } },
         { "name": { "value": "Styled Components", "synonyms": [""] } },
         { "name": { "value": "Three js", "synonyms": [""] } },
+        { "name": { "value": "Boostrap", "synonyms": [""] } },
+
 
         { "name": { "value": "Jira", "synonyms": [""] } },
         { "name": { "value": "Notion", "synonyms": [""] } },
@@ -28,7 +30,19 @@
         { "name": { "value": "Babel", "synonyms": [""] } },
         { "name": { "value": "Vue", "synonyms": [""] } },
         { "name": { "value": "Vuetify", "synonyms": [""] } },
-        { "name": { "value": "React", "synonyms": ["React js"] } }
+        { "name": { "value": "React", "synonyms": ["React js"] } },
+        { "name": { "value": "Eslint", "synonyms": [""] } },
+        { "name": { "value": "Notepad", "synonyms": [""] } },
+        { "name": { "value": "Visual studio", "synonyms": ["VS"] } },
+        { "name": { "value": "Visual studio code", "synonyms": ["code","vs code","visual studio code"] } },
+        { "name": { "value": "Prettier", "synonyms": [""] } },
+        { "name": { "value": "Atom", "synonyms": [""] } }
+
+
+
+
+
+
 
 
 
