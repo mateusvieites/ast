@@ -1,0 +1,40 @@
+{
+    "values": [
+        { "name": { "value": "Delphi", "synonyms": [] } },
+        { "name": { "value": "Python", "synonyms": [] } },
+        { "name": { "value": "Java", "synonyms": [] } },
+        { "name": { "value": "C", "synonyms": [] } },
+        { "name": { "value": "C++", "synonyms": ["c mais mais", "c plus plus"] } },
+        { "name": { "value": "C#", "synonyms": ["c sharp"] } },
+        { "name": { "value": "Javascript", "synonyms": ["js"] } },
+        { "name": { "value": "Typescript", "synonyms": [] } },
+        { "name": { "value": "Php", "synonyms": [] } },
+        { "name": { "value": "Brain fuck", "synonyms": [] } },
+        { "name": { "value": "Cobol", "synonyms": [] } },
+        { "name": { "value": "Kotlin", "synonyms": [] } },
+
+
+        { "name": { "value": "CSS", "synonyms": [""] } },
+        { "name": { "value": "SASS", "synonyms": ["SCSS"] } },
+        { "name": { "value": "MUI", "synonyms": [""] } },
+        { "name": { "value": "Styled Components", "synonyms": [""] } },
+        { "name": { "value": "Three js", "synonyms": [""] } },
+
+        { "name": { "value": "Jira", "synonyms": [""] } },
+        { "name": { "value": "Notion", "synonyms": [""] } },
+        { "name": { "value": "Trello", "synonyms": [""] } },
+        { "name": { "value": "Postman", "synonyms": [""] } },
+
+        { "name": { "value": "Babel", "synonyms": [""] } },
+        { "name": { "value": "Vue", "synonyms": [""] } },
+        { "name": { "value": "Vuetify", "synonyms": [""] } },
+        { "name": { "value": "React", "synonyms": ["React js"] } }
+
+
+
+
+
+
+
+    ]
+}

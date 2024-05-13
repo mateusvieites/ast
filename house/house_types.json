@@ -1,0 +1,27 @@
+{
+  "values": [
+    { "name": { "value": "Cama", "synonyms": [] } },
+    { "name": { "value": "Pia", "synonyms": [] } },
+    { "name": { "value": "Espelho", "synonyms": [] } },
+    { "name": { "value": "Mesa", "synonyms": [] } },
+    { "name": { "value": "Torneira", "synonyms": [] } },
+    { "name": { "value": "Toalha", "synonyms": [] } },
+    { "name": { "value": "Coberta", "synonyms": [] } },
+    { "name": { "value": "Travesseiro", "synonyms": [] } },
+    { "name": { "value": "Estante", "synonyms": [] } },
+    { "name": { "value": "Telefone", "synonyms": [] } },
+    { "name": { "value": "Monitor", "synonyms": [] } },
+    { "name": { "value": "Teclado", "synonyms": [] } },
+    { "name": { "value": "Mouse", "synonyms": [] } },
+    { "name": { "value": "Geladeira", "synonyms": [] } },
+    { "name": { "value": "Fogão", "synonyms": [] } },
+    { "name": { "value": "Ar-condicionado", "synonyms": ["ar condicioando"] } },
+    { "name": { "value": "Microondas", "synonyms": ["Micro ondas"] } },
+    { "name": { "value": "Air Fryier", "synonyms": [] } },
+    { "name": { "value": "Headset", "synonyms": [] } },
+    { "name": { "value": "Fone de ouvido", "synonyms": ["fone"] } },
+    { "name": { "value": "Mousepad", "synonyms": [] } },
+    { "name": { "value": "Tapete", "synonyms": [] } },
+    { "name": { "value": "Porta copo", "synonyms": [] } }
+  ]
+}

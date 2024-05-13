@@ -1,0 +1,62 @@
+{
+  "name": "FodmapCategory",
+  "values": [
+    {
+      "id": "1",
+      "name": "Açúcares e Doces",
+      "synonyms": ["açúcares", "doces", "sweets", "sugar", "candies"]
+    },
+    {
+      "id": "2",
+      "name": "Bebidas",
+      "synonyms": ["bebidas", "refrigerantes", "drinks", "beverages"]
+    },
+    {
+      "id": "3",
+      "name": "Carnes",
+      "synonyms": ["carnes", "meats"]
+    },
+    {
+      "id": "4",
+      "name": "Condimentos e Temperos",
+      "synonyms": [
+        "condimentos",
+        "temperos",
+        "pimentas",
+        "condiments",
+        "seasonings",
+        "spices"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Frutas",
+      "synonyms": ["fruits"]
+    },
+    {
+      "id": "6",
+      "name": "Laticínios e derivados",
+      "synonyms": [
+        "laticínios",
+        "derivados de leite",
+        "dairy",
+        "dairy products"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Massas, cereais e pães",
+      "synonyms": ["massas", "cereais", "pães", "pastas", "cereals", "breads"]
+    },
+    {
+      "id": "8",
+      "name": "Oleaginosas, leguminosas e grãos",
+      "synonyms": ["grãos", "sementes", "nuts", "grains"]
+    },
+    {
+      "id": "9",
+      "name": "Vegetais e Legumes",
+      "synonyms": ["vegetais", "legumes", "vegetables", "greens"]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "HouseCategory",
+  "values": [
+    {
+      "id": "1",
+      "name": "Quartos",
+      "synonyms": []
+    },
+    {
+      "id": "2",
+      "name": "Salas",
+      "synonyms": []
+    },
+    {
+      "id": "3",
+      "name": "Banheiros",
+      "synonyms": []
+    },
+    {
+      "id": "4",
+      "name": "Cozinhas",
+      "synonyms": []
+    },
+    {
+      "id": "5",
+      "name": "Escritorios",
+      "synonyms": []
+    }
+  ]
+}
